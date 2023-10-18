@@ -16,3 +16,10 @@ In statistics, Kurtosis is a measure of tail of a distribution. There are severa
 <p align = "center">
   <img src = "images/kurt.png" alt = "" width = "50%" height = "50%" />
 </p>
+where:
+```
+“n” is the number of data points,
+"Xi" is the individual data point,
+"Xavg" is the mean, and
+"s" is the standard deviation (population std with ddof=True).
+```
