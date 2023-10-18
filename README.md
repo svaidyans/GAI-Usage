@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = "images/gai.png" alt = "" width = "100%" height = "100%" />
+  <img src = "images/gai.png" alt = "" width = "80%" height = "80%" />
 </p>
 
 # Utilise ChatGPT as a learning companion, not as a substitution!
