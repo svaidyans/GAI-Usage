@@ -1,4 +1,8 @@
-[ABC](images/gai.png)# Utilise ChatGPT as a learning companion, not as a substitution!
+<p align = "center">
+  <img src = "images/gai.png" alt = "" width = "100%" height = "100%" />
+</p>
+
+# Utilise ChatGPT as a learning companion, not as a substitution!
 
 ## Introduction
 I teach “Data Analysis with Python” for various under graduate students pursuing Bachelor of Technology, Bachelor of Commerce, Bachelor of Business Administration, etc.
