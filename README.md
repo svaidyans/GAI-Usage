@@ -59,4 +59,10 @@ Attempting to refine the query, I asked ChatGPT to compute Fisher’s Kurtosis s
   <img src = "images/chat-3.png" alt = "" width = "80%" height = "80%" />
 </p>
 
+## Conclusion
+Generative AI systems like ChatGPT are undoubtedly powerful tools. However, it is crucial to approach them with caution. As demonstrated in this case, GAI are only as reliable as the data on which they were trained and may produce incorrect outputs, including erroneous code. Therefore, I request all students to exercise due diligence and critical judgment when utilising Generative AI.
+
+(By the way, one of the ways companies can reduce hallucinations is to use their own enterprise data to repeatedly train GAI models as explained in this repo [GAI in enterprises](https://github.com/svaidyans/Generative-AI-in-Enterprises)).
+
+In your academic journey, while technology is a powerful friend, use it as an aid rather than as a replacement for your hard work and learning.
 
