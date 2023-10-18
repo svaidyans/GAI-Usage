@@ -1,4 +1,4 @@
-# Utilise ChatGPT as a learning companion, not a substitution!
+# Utilise ChatGPT as a learning companion, not as a substitution!
 
 ## Introduction
 I teach “Data Analysis with Python” for various under graduate students pursuing Bachelor of Technology, Bachelor of Commerce, Bachelor of Business Administration, etc.
