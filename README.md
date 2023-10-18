@@ -24,3 +24,12 @@ where:
 "Xavg" is the mean, and
 "s" is the standard deviation (population std with ddof=True).
 ```
+
+For a dataset of [4,2,5,8,6] the values are:
+
+```
+"n" = 5
+"Xavg" = 25 / 5 = 5
+"s" (with ddof=True) = 2.2360797749979 
+"(Sum of (Xi — Xavg))^4" = 164
+```
