@@ -44,7 +44,7 @@ This is the same answer we get with “kurt()” function both in Python and Exc
 I asked ChatGPT to calculate Kurtosis for the same dataset.
 
 <p align = "center">
-  <img src = "images/chat-1.png" alt = "" width = "50%" height = "50%" />
+  <img src = "images/chat-1.png" alt = "" width = "80%" height = "80%" />
 </p>
 
 As you can see, ChatGPT gives an incorrect K = -2.9 answer.
