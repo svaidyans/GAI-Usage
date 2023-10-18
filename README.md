@@ -33,3 +33,8 @@ For a dataset of [4,2,5,8,6] the values are:
 "s" (with ddof=True) = 2.2360797749979 
 "(Sum of (Xi — Xavg))^4" = 164
 ```
+
+So calculating Kurtosis it comes out to,
+**K = 0.2** *_(Platykurtic)_*.
+
+This is the same answer we get with “kurt()” function both in Python and Excel.
