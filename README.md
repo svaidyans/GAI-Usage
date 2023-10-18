@@ -13,4 +13,6 @@ Let us see this with an example.
 
 ## Kurtosis Calculation
 In statistics, Kurtosis is a measure of tail of a distribution. There are several types of Kurtosis; generally “Fisher’s Kurtosis” also known as “Sample Excessive Kurtosis” is used, which is calculated as:
-[]
+<p align = "center">
+  <img src = "images/kurt.png" alt = "" width = "30%" height = "30%" />
+</p>
