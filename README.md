@@ -35,6 +35,7 @@ For a dataset of [4,2,5,8,6] the values are:
 ```
 
 So calculating Kurtosis it comes out to,
+
 **K = 0.2** *_(Platykurtic)_*.
 
 This is the same answer we get with “kurt()” function both in Python and Excel.
