@@ -5,7 +5,7 @@
 # Utilise ChatGPT as a learning companion, not as a substitute!
 I teach “Data Analysis with Python” for various under graduate students pursuing Bachelor of Technology, Bachelor of Commerce, Bachelor of Business Administration, etc.
 
-Recently in a class, we were discussing calculating statistical values in datasets using Python as a programming language. One of the students asked a very relevant question “Sir, why should I not ask AI to directly get me the Skewness and Kurtosis values (meaning, why should I bother about programming)?”
+Recently in a class, we were discussing calculating statistical values in datasets using Python as a programming language. One of the students asked a very relevant question “Sir, why should I not ask AI to directly get me the Skewness and Kurtosis values (meaning, *_why should I bother about programming_*)?”
 
 Having worked with Generative Artificial Intelligence (GAI) like ChatGPT / Bard / Llama for some time now, I explained how GAI suffer from “hallucinations” — confidently giving wrong answers.
 
