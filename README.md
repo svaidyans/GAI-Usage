@@ -52,11 +52,11 @@ As you can see, ChatGPT gives an incorrect K = -2.9 answer.
 Attempting to refine the query, I asked ChatGPT to compute Fisher’s Kurtosis specifically, hoping for an accurate response. Strikingly, the GAI’s answer was further incorrect. Even when prompted with the information that Excel and Python yield K = 0.2, ChatGPT stubbornly clung to its earlier erroneous response.
 
 <p align = "center">
-  <img src = "images/chat-2.png" alt = "" width = "50%" height = "50%" />
+  <img src = "images/chat-2.png" alt = "" width = "80%" height = "80%" />
 </p>
 
 <p align = "center">
-  <img src = "images/chat-3.png" alt = "" width = "50%" height = "50%" />
+  <img src = "images/chat-3.png" alt = "" width = "80%" height = "80%" />
 </p>
 
 
